@@ -1,0 +1,50 @@
+      /* styles.css */
+      .whatsapp-link {
+        position: fixed;
+        bottom: 80px;
+        right: 12px;
+        background-color: #67AC46;
+        color: white;
+        border-radius: 40%;
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+        transition: transform 0.3s ease;
+        
+    }
+    
+    .whatsapp-link:hover {
+        transform: scale(1.1);
+        color: black;
+    }
+    
+    .whatsapp-link i {
+        font-size: 20px;
+    }
+
+
+
+
+
+    .rectangle-img {
+        width: 100%;
+        height: 300px; /* Adjust the height as needed */
+        object-fit: cover;
+        }
+        .content {
+        margin-left: 30px; /* Adjust margin left as needed */
+        }
+        .about-images {
+        height: fit-content; /* Ensures the column adjusts to the content height */
+        }
+
+
+
+
+
+
+
